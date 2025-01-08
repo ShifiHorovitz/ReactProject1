@@ -8,6 +8,8 @@ import Contact from './lesson4/component/comp_contact';
 import Servies from './lesson4/component/comp_servies';
 import MyComponent from './Lesson2/lesson2_img';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './i18n'; 
+
 
 
 // function App() {
