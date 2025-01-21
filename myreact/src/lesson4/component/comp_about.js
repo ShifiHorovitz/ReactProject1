@@ -5,7 +5,9 @@ function About() {
   const { t } = useTranslation(); // מחזיר את פונקציית t
 
   return (
-    <h1>{t('about.title')}</h1> // משתמש במפתח home_welcome כדי להחזיר את התרגום המתאים
+    <h1>{t('about.title')}</h1>
+    
+     // משתמש במפתח home_welcome כדי להחזיר את התרגום המתאים
   );
 }
 
